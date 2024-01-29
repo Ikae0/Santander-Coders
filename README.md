@@ -1,2 +1,3 @@
-# Santander-Coders
-Set of repositories that I was assigned to study during Santander Coders 2024.
+At its essence, Santander Coders represents a technological scholarship initiative developed by Ada Tech in collaboration with Santander. With an astounding response exceeding 50,000 applicants, the program is intricately structured into four distinct tracks: Data Science, Data Engineering, Frontend, and Backend. Out of the multitude of candidates, a carefully chosen group of 300 individuals emerged successfully, with 75 participants allocated to each specialized track.
+
+This repository specifically concentrates on the Data Science track within the program. The overarching initiative spans a comprehensive duration of 5 months, delivering an extensive curriculum encompassing over 324 hours of synchronous content.
